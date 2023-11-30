@@ -1,0 +1,11 @@
+
+
+train: C:\Users\emirh\PycharmProjects\Goruntu\Dataset\train2017.txt  
+val: C:\Users\emirh\PycharmProjects\Goruntu\Dataset\val2017.txt 
+test: C:\Users\emirh\PycharmProjects\Goruntu\Dataset\test-dev2017.txt  
+
+# number of classes
+nc: 8
+
+# class names
+names: [ 'Head','Fin','Cod','Garfish','Mackrel','Perch','Rainbow_trout','Salmon' ]

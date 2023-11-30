@@ -1,0 +1,8 @@
+Head
+Fin
+Cod
+Garfish
+Mackrel
+Perch
+Rainbow_trout
+Salmon
